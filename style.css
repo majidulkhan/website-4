@@ -1,0 +1,132 @@
+.sec1{
+    background-color: rgb(19, 19, 116);
+    height: 30px;
+}
+.sec1 a{
+    color: #fff;
+    text-decoration: none;
+    margin: 15px;
+}
+.sec2{
+    background-image: url(./img/sixteen-miles-out-lIM0ziwN5RE-unsplash.jpg);
+    color: #fff;
+    background-size: cover;
+     
+   
+}
+.sec2 button{
+    background-color: rgb(248, 24, 35);
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+}
+.sec3{
+   margin-top: 30px
+}
+.sec3 img{
+    height: 50px;
+}
+.sec4{
+    margin: 40px 0px 40px;
+    background-color: rgb(21, 21, 56);
+    color: #fff;
+}   
+.sec4 h6{
+    margin-top: 30px;
+}
+.sec4 p::before{
+    content: ">> ";
+    margin-top: 40px;
+}
+.sec4-p{
+    text-align: left;
+}
+.sec5 button{
+    background-color: rgb(187, 36, 149);
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+.sec6{
+    margin-top: 60px;
+}
+.sec6 img{
+    height: 300px;
+    background-size: cover;
+    width: 100%;
+}
+.sec6 a{
+    color: rgb(223, 30, 40);
+}
+.sec{
+    background-color: rgb(20, 20, 92);
+    color: #fff;
+}
+.sec6 button{
+    border: none;
+    background-color: rgb(228, 78, 78);
+    padding: 2px 10px 1px 10px;
+    border-radius: 10px;
+}
+
+.card{
+    background-color: navy;
+    color: white;
+    padding: 20px 0px;
+}
+.container2{
+    width: 1000px;
+    margin: auto;
+}
+.card1-icon{
+    width: 45px;
+    margin-left: 20px;
+    
+    margin-top: 8px;
+}
+.sec8{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.sec9 h1{
+    color: #fff;
+    margin-bottom: 65px;
+}
+.sec9-card{
+    background-color: navy;
+    width: 100%;
+    margin-top: 50px;
+}
+.sec9-card .card{
+    background-color: #fff;
+    color: black;
+}
+.col-12 {
+    margin-top: 60px;
+}
+.footer {
+    background-color: black;
+    color: #fff;
+    padding: 40px 0px;
+    margin-top: 71px;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    display: block;
+
+
+}
+
+.footer a,
+h5 {
+    padding-left: 30px;
+}
+
+.footer p {
+    padding: 20px 0px;
+    margin-top: 60px;
+    text-align: center;
+}
